@@ -6,7 +6,11 @@ This project has with objective studing react ts and Vite
 
 ## Get Started
 
-- clone this project;
-- npm install;
-- npm run dev;
+- clone this project
+- npm install
+- npm run dev
 - navigate to http://localhost:5173
+
+## Project Image
+
+![alt text](image.png)
